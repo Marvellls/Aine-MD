@@ -2,11 +2,11 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 owner = [
-  ['62895330379186'],
-  ['62895330379186'],
-  ['62895330379186', 'Owner', true]
+  ['6281945744775'],
+  ['6281945744775'],
+  ['6281945744775', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+[6281945744775] // Put your number here
 mods = [] // Want some help?
 prems = [] // Premium user has unlimited limit
 APIs = { // API Prefix
